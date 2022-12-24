@@ -1,0 +1,27 @@
+Main priority:
+	- existance
+	- ingredients listings for allgrain
+		- malts, hops, yeast, spices, etc.
+	- locally saved ingredient data
+	- main calculations
+		- OG, FG, ABV, IBU, SRM, co2
+	- metric and imperial
+	- notes
+	- recipe save files
+	- recipe naming
+
+
+Secondary priority:
+	- export and import recipes
+	- exportable human readable recipes
+	- visual beer color representation
+	- GUI
+	- recipe scaling
+	- adjusting calculations to be correct
+
+Not to add
+	- external device integration
+	- online
+	- recipe cost
+	- brewday steps
+
